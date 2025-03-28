@@ -1,5 +1,5 @@
 ---
-title: "What makes a hit?:"
+title: "What makes a hit?"
 author: "Haruka Ao, Lowell Monis, Atticus Gondoly, Manasvi Jain, An Bui, Kaleb Moore"
 date: "March 28, 2025"
 output: powerpoint_presentation
