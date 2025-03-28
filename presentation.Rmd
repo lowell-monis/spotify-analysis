@@ -1,8 +1,10 @@
 ---
 title: "What makes a hit?"
+subtitle: "A statistical breakdown of Spotify's most streamed."
 author: "Haruka Ao, Lowell Monis, Atticus Gondoly, Manasvi Jain, An Bui, Kaleb Moore"
 date: "March 28, 2025"
-output: powerpoint_presentation
+output: 
+  ioslides_presentation
 ---
 
 ```{r setup, include=FALSE}
